@@ -4,7 +4,8 @@ RC-ECB-64-Retro-Computing-Project
 This is a DIY Z80 Retro Computersystem based on the old style system bus ECB with some pin modifications.
 The PCB size for modules is 100x100mm for low cost manufacturing, but also 160x100mm is possible.
 
-The design is open source, the schematics, printed circuit board Gerber ﬁles will be placed in this repository
+The designs on this project site are generally open source. You can recreate them yourself or modify them if
+you wish. The documentation, schematics, printed circuit board Gerber ﬁles of the RC-ECB-64 modules will be placed next on this repository.
 
 ![plot](https://github.com/Frank-Ka/RC-ECB-64-Project/blob/main/Core-system-5-Slot.jpg)
 
