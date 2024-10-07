@@ -1,9 +1,9 @@
 # MRC-ECB Retro-Computing-Project
 
-This is a DIY Project of a **modular** Z80 Computersystem based on the old style system bus **ECB** with some pin modifications.
+This is a DIY Project of a **modular** Z80/Z180 Computersystem based on the old style system bus **ECB** with some pin modifications.
 The PCB size for modules is 100x100mm for low cost manufacturing, but also 160x100mm is possible.
 
-The designs on this project site are generally open source. You can recreate them yourself or modify them if
+The designs on this project site are generally open. You can recreate them yourself or modify them if
 you wish. The documentation, schematics, printed circuit board Gerber ﬁles of the MRC-ECB modules will be placed next on this repository.
 
 ![plot](https://github.com/Frank-Ka/RC-ECB-64-Project/blob/main/Core-system-5-Slot.jpg)
